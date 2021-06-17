@@ -4,3 +4,4 @@
 - neuer loodingscreen
 - neues car hud
 - fixed policejob!
+- shop preise angepasst!
