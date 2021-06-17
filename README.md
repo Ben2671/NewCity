@@ -2,3 +2,4 @@
 - redesign dpemotes
 - remove safezone max limit
 - neuer loodingscreen
+- neues car hud
