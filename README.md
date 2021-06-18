@@ -1,4 +1,4 @@
-**16.06.2021**
+**18.06.2021**
 - redesign dpemotes
 - remove safezone max limit
 - neuer loodingscreen
@@ -7,3 +7,4 @@
 - shop preise angepasst!
 - Police GTR in PD Garage!
 - Sg Mapping
+- reviveall
