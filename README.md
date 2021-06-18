@@ -10,3 +10,4 @@
 - reviveall
 - AntiVDM
 - newcity-blacklist
+- /id
