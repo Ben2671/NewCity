@@ -9,3 +9,4 @@
 - Sg Mapping
 - reviveall
 - AntiVDM
+- newcity-blacklist
