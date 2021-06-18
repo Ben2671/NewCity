@@ -12,3 +12,4 @@
 - newcity-blacklist
 - /id
 - loadingscreen Fixed
+- fixed Waffenshop 
