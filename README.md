@@ -13,3 +13,4 @@
 - /id
 - loadingscreen Fixed
 - fixed Waffenshop 
+- fixed personal menu
