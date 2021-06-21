@@ -22,3 +22,5 @@
 - Ben56 made newcity MLOs
 - Ben56 updated newcity [extras]
 - Ben56 fixed dpemotes
+- Ben56 fixed newcity connecting
+
