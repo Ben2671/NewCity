@@ -16,3 +16,4 @@
 - fixed personal menu
 - Test
 - Ben56 updated essentialmode
+- Ben56 updated server cache
