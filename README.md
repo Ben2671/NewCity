@@ -20,3 +20,4 @@
 - Ben56 updated server-data
 - Ben56 made newcity car pack
 - Ben56 made newcity MLOs
+- Ben56 updated newcity [extras]
