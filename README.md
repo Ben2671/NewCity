@@ -15,4 +15,4 @@
 - fixed Waffenshop 
 - fixed personal menu
 - Test
-- Ben56 updatet essentialmode
+- Ben56 updated essentialmode
