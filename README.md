@@ -25,4 +25,5 @@
 - Ben56 fixed newcity connecting
 - Ben56 fixed all cars
 - Ben56 add restart restart-notify
+- Ben56 fixed es_admin
 
