@@ -1,29 +1,4 @@
-**18.06.2021**
-- redesign dpemotes
-- remove safezone max limit
-- neuer loodingscreen
-- neues car hud
-- fixed policejob!
-- shop preise angepasst!
-- Police GTR in PD Garage!
-- Sg Mapping
-- reviveall
-- AntiVDM
-- newcity-blacklist
-- /id
-- loadingscreen Fixed
-- fixed Waffenshop 
-- fixed personal menu
-- Test
-- Ben56 updated essentialmode
-- Ben56 updated server cache
-- Ben56 updated server-data
-- Ben56 made newcity car pack
-- Ben56 made newcity MLOs
-- Ben56 updated newcity [extras]
-- Ben56 fixed dpemotes
-- Ben56 fixed newcity connecting
-- Ben56 fixed all cars
-- Ben56 add restart restart-notify
-- Ben56 fixed es_admin
+-- 30.07.2021 --
+
+- added loadingscreen
 
