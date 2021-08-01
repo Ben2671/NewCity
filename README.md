@@ -2,4 +2,4 @@
 
 - added loadingscreen
 - rifa Job angepasst
-
+- add new notify
