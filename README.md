@@ -3,4 +3,4 @@
 - added loadingscreen
 - rifa Job angepasst
 - add new notify
-- Testr
+- ddd
